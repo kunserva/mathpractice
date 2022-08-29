@@ -3,6 +3,8 @@ Practice makes perfect! Practice math questions over and over again, with answer
 
 System requirements: Windows OS and an NVIDIA GPU with CUDA installed.
 
+<b> Download it from: https://github.com/kunserva/mathpractice/releases/download/v1.0.0/mathpractice.exe </b>
+
 
 ![Screenshot 2022-08-21 143059](https://user-images.githubusercontent.com/110480830/185791115-d6b81b27-a683-4866-91f6-3ea7eb28ebd6.png)
 ![Screenshot 2022-08-21 143200](https://user-images.githubusercontent.com/110480830/185791124-ae9d97b5-76c3-4fbb-9c17-b48d5e35cf43.png)
